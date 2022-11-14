@@ -1,5 +1,5 @@
 # Par
-# Carapaz Mendoza Miguel Angel
+# Carapaz Mendoza Miguel Angel (MiguelCarapaz)
 # Congo Folleco Mateo Sebastian
 # Chasi Galarraga Alexis Fernando (AlexisChasi)
 # Quishpe Guañuna Daniel Andres
