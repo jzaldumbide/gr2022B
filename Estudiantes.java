@@ -3,11 +3,14 @@ public class Estudiantes {
     String apellido;
     int edad ;
     String codi;
+    String usuario;
+
     public Estudiantes(){
         nombre="Melani";
         apellido="Molina";
         edad = 20;
         codi = "4";
+        usuario = "MelaniMolina";
     }
 
     public String getNombre() {
@@ -40,5 +43,13 @@ public class Estudiantes {
 
     public void setCodi(String codi) {
         this.codi = codi;
+    }
+
+    public String getUsuario() {
+        return usuario;
+    }
+
+    public void setUsuario(String usuario) {
+        this.usuario = usuario;
     }
 }

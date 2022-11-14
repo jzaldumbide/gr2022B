@@ -7,6 +7,23 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
+        System.out.printf("Usuario GitHub : "+est.getUsuario());
         System.out.println("");
+
+        System.out.println("==========================");
+        est.setNombre("Wilson");
+        est.setApellido("Guayanay");
+        est.setEdad(23);
+        est.setCodi("06");
+        est.setUsuario("WilsonG08");
+        System.out.println("Nombre: "+est.getNombre());
+        System.out.println("Apellido: "+est.getApellido());
+        System.out.println("Edad: "+est.getEdad());
+        System.out.println("Codigo Unico: "+est.getCodi());
+        System.out.printf("Usuario GitHub : "+est.getUsuario());
+        System.out.println("");
+
+
+
     }
 }
