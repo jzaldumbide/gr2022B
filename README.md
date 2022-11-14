@@ -8,3 +8,4 @@
 # Panchi Melo Jose Rafael
 # Guanoluisa Peralta Elvis Alexander (elvissoide)
 # Molina Navas Melani Scarlet (MelaniMolina)
+# Erick Stalin Santillan Estrada (ErickStalin)
