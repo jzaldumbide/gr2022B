@@ -5,7 +5,7 @@
 # Quishpe Guañuna Daniel Andres (DAQG)
 # Uchuari Quiñonez Pablo Gustavo (Clarks1223)
 # Guayanay Tixi Wilson Alexander (WilsonG08)
-# Panchi Melo Jose Rafael
+# Panchi Melo Jose Rafael (jp123468)
 # Guanoluisa Peralta Elvis Alexander (elvissoide)
 # Molina Navas Melani Scarlet (MelaniMolina)
 # Erick Stalin Santillan Estrada (ErickStalin)
