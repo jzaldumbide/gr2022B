@@ -101,4 +101,22 @@ public class Metodos {
         System.out.println("---------------------");
         System.out.println("");
     }
+
+    public void nom_Guanoluisa(){
+        System.out.println("==========================");
+        est.setNombre("Elvis");
+        est.setApellido("Guanoluisa");
+        est.setEdad(23);
+        est.setCodi("18");
+        est.setUsuario("elvissoide");
+        System.out.println("Nombre: " + est.getNombre());
+        System.out.println("Apellido: " + est.getApellido());
+        System.out.println("Edad: " + est.getEdad());
+        System.out.println("Codigo Unico: " + est.getCodi());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
+        System.out.println("");
+    }
 }

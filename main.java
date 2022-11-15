@@ -10,5 +10,6 @@ public class main {
         metodos.nom_Molina();
         metodos.nom_Erick();
         metodos.nom_Panchi();
+        metodos.nom_Guanoluisa();
     }
 }
