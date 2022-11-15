@@ -8,5 +8,6 @@ public class main {
         metodos.nom_Uchuari();
         metodos.nom_Guyanay();
         metodos.nom_Molina();
+        metodos.nom_Erick();
     }
 }
