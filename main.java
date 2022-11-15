@@ -9,5 +9,6 @@ public class main {
         metodos.nom_Guyanay();
         metodos.nom_Molina();
         metodos.nom_Erick();
+        metodos.nom_Panchi();
     }
 }

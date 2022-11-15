@@ -12,7 +12,7 @@ public class Estudiantes {
         codi = "";
         usuario = "";
     }
-    // metodo
+
 
     public String getNombre() {
         return nombre;
