@@ -13,7 +13,7 @@ public class main {
         System.out.println("---------------------");
         System.out.println("");
 
-        System.out.println("==========================");
+        System.out.println("\n==========================");
         est.setNombre("Wilson");
         est.setApellido("Guayanay");
         est.setEdad(23);
@@ -24,10 +24,10 @@ public class main {
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
         System.out.println("Usuario GitHub : " + est.getUsuario());
-        System.out.println("---------------------");
-        System.out.println("| Ejercicio GitHub  |");
-        System.out.println("---------------------");
-        System.out.println("");
+        System.out.println("-----------------------");
+        System.out.println("|   Ejercicio GitHub   |");
+        System.out.println("------------------------\n");
+
 
         System.out.println("==========================");
         est.setNombre("Alexis");
