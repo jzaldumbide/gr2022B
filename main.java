@@ -120,5 +120,19 @@ public class main {
         System.out.printf("Usuario GitHub : " + est.getUsuario());
         System.out.println("Ejercicio GitHub");
         System.out.println("");
+
+        System.out.println("==========================");
+        est.setNombre("Mateo");
+        est.setApellido("Congo");
+        est.setEdad(21);
+        est.setCodi("22");
+        est.setUsuario("Einarr07");
+        System.out.println("Nombre: " + est.getNombre());
+        System.out.println("Apellido: " + est.getApellido());
+        System.out.println("Edad: " + est.getEdad());
+        System.out.println("Codigo Unico: " + est.getCodi());
+        System.out.printf("Usuario GitHub : " + est.getUsuario());
+        System.out.println("Ejercicio GitHub");
+        System.out.println("");
     }
 }
