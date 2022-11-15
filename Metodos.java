@@ -1,6 +1,6 @@
 public class Metodos {
+    Estudiantes est = new Estudiantes();
     public void nom_Chasi(){
-        Estudiantes est = new Estudiantes();
         System.out.println("==========================");
         est.setNombre("Alexis");
         est.setApellido("Chasi");
@@ -18,7 +18,7 @@ public class Metodos {
         System.out.println("");
     }
     public void nom_Uchuari() {
-        Estudiantes est = new Estudiantes();
+
         System.out.println("==========================");
         est.setNombre("Pablo");
         est.setApellido("Uchuari");
@@ -34,5 +34,22 @@ public class Metodos {
         System.out.println("| Ejercicio GitHub  |");
         System.out.println("---------------------");
         System.out.println("");
+    }
+    public void nom_Guyanay() {
+
+        System.out.println("\n==========================");
+        est.setNombre("Wilson");
+        est.setApellido("Guayanay");
+        est.setEdad(23);
+        est.setCodi("06");
+        est.setUsuario("WilsonG08");
+        System.out.println("Nombre: " + est.getNombre());
+        System.out.println("Apellido: " + est.getApellido());
+        System.out.println("Edad: " + est.getEdad());
+        System.out.println("Codigo Unico: " + est.getCodi());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("-----------------------");
+        System.out.println("|   Ejercicio GitHub   |");
+        System.out.println("------------------------\n");
     }
 }
