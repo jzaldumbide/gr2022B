@@ -5,5 +5,6 @@ public class main {
 
         Metodos metodos= new Metodos();
         metodos.nom_Chasi();
+        metodos.nom_Uchuari();
     }
 }
