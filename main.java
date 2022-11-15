@@ -7,7 +7,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.printf("Usuario GitHub : "+est.getUsuario());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -20,7 +23,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.printf("Usuario GitHub : "+est.getUsuario());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -33,8 +39,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.printf("Usuario GitHub : "+est.getUsuario());
-        System.out.println("ejercicio GitHub");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -47,8 +55,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.printf("Usuario GitHub : "+est.getUsuario());
-        System.out.println("ejercicio Github");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -61,8 +71,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.println("Usuario GitHub : "+est.getUsuario());
-        System.out.println("Ejercicio Github");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -75,8 +87,10 @@ public class main {
         System.out.println("Apellido: "+est.getApellido());
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
-        System.out.println("Usuario GitHub : "+est.getUsuario());
-        System.out.println("Ejercicio Github");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
 
@@ -90,8 +104,10 @@ public class main {
         System.out.println("Apellido: " + est.getApellido());
         System.out.println("Edad: " + est.getEdad());
         System.out.println("Codigo Unico: " + est.getCodi());
-        System.out.printf("Usuario GitHub : " + est.getUsuario());
-        System.out.println("Ejercicio GitHub");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -104,7 +120,10 @@ public class main {
         System.out.println("Apellido: " + est.getApellido());
         System.out.println("Edad: " + est.getEdad());
         System.out.println("Codigo Unico: " + est.getCodi());
-        System.out.printf("Usuario GitHub : " + est.getUsuario());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -117,8 +136,10 @@ public class main {
         System.out.println("Apellido: " + est.getApellido());
         System.out.println("Edad: " + est.getEdad());
         System.out.println("Codigo Unico: " + est.getCodi());
-        System.out.printf("Usuario GitHub : " + est.getUsuario());
-        System.out.println("Ejercicio GitHub");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
 
         System.out.println("==========================");
@@ -131,8 +152,10 @@ public class main {
         System.out.println("Apellido: " + est.getApellido());
         System.out.println("Edad: " + est.getEdad());
         System.out.println("Codigo Unico: " + est.getCodi());
-        System.out.printf("Usuario GitHub : " + est.getUsuario());
-        System.out.println("Ejercicio GitHub");
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
         System.out.println("");
     }
 }
