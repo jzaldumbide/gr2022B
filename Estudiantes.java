@@ -6,12 +6,13 @@ public class Estudiantes {
     String usuario;
 
     public Estudiantes(){
-        nombre="Melani";
-        apellido="Molina";
-        edad = 20;
-        codi = "4";
-        usuario = "MelaniMolina";
+        nombre="";
+        apellido="";
+        edad = 0;
+        codi = "";
+        usuario = "";
     }
+    // metodo
 
     public String getNombre() {
         return nombre;
