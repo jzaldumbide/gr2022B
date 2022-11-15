@@ -119,4 +119,22 @@ public class Metodos {
         System.out.println("---------------------");
         System.out.println("");
     }
+    public void nom_Carapaz() {
+        Estudiantes Carapaz = new Estudiantes();
+        System.out.println("==========================");
+        Carapaz.setNombre("Miguel");
+        Carapaz.setApellido("Carapaz");
+        Carapaz.setEdad(20);
+        Carapaz.setCodi("20");
+        Carapaz.setUsuario("MiguelCarapaz");
+        System.out.println("Nombre: " + Carapaz.getNombre());
+        System.out.println("Apellido: " + Carapaz.getApellido());
+        System.out.println("Edad: " + Carapaz.getEdad());
+        System.out.println("Codigo Unico: " + Carapaz.getCodi());
+        System.out.println("Usuario GitHub : " + Carapaz.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
+        System.out.println("");
+    }
 }
