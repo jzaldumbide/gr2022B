@@ -62,6 +62,7 @@ public class main {
         System.out.println("Edad: "+est.getEdad());
         System.out.println("Codigo Unico: "+est.getCodi());
         System.out.printf("Usuario GitHub : "+est.getUsuario());
+        System.out.println("Ejercicio Github");
         System.out.println("");
 
         System.out.println("==========================");
