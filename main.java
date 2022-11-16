@@ -2,7 +2,6 @@ public class main {
     public static void main(String[] args) {
         System.out.println("\t Datos Estudiantes");
         System.out.println("");
-
         Metodos metodos= new Metodos();
         metodos.nom_Chasi();
         metodos.nom_Uchuari();
@@ -13,5 +12,6 @@ public class main {
         metodos.nom_Guanoluisa();
         metodos.nom_Carapaz();
         metodos.nom_Quishpe();
+        metodos.nom_Congo();
     }
 }

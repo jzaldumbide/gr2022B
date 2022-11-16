@@ -17,7 +17,7 @@ public class Metodos {
         System.out.println("---------------------");
         System.out.println("");
     }
-    public void nom_Uchuari() {
+    public void nom_Uchuari(){
         System.out.println("==========================");
         est.setNombre("Pablo");
         est.setApellido("Uchuari");
@@ -34,7 +34,7 @@ public class Metodos {
         System.out.println("---------------------");
         System.out.println("");
     }
-    public void nom_Guyanay() {
+    public void nom_Guyanay(){
         System.out.println("\n==========================");
         est.setNombre("Wilson");
         est.setApellido("Guayanay");
@@ -50,7 +50,7 @@ public class Metodos {
         System.out.println("|   Ejercicio GitHub   |");
         System.out.println("------------------------\n");
     }
-    public void nom_Molina() {
+    public void nom_Molina(){
         System.out.println("==========================");
         est.setNombre("Melani");
         est.setApellido("Molina");
@@ -141,9 +141,26 @@ public class Metodos {
         System.out.println("==========================");
         est.setNombre("Daniel");
         est.setApellido("Quishpe");
-        est.setEdad(0);
+        est.setEdad(20);
         est.setCodi("08");
         est.setUsuario("DAQG");
+        System.out.println("Nombre: " + est.getNombre());
+        System.out.println("Apellido: " + est.getApellido());
+        System.out.println("Edad: " + est.getEdad());
+        System.out.println("Codigo Unico: " + est.getCodi());
+        System.out.println("Usuario GitHub : " + est.getUsuario());
+        System.out.println("---------------------");
+        System.out.println("| Ejercicio GitHub  |");
+        System.out.println("---------------------");
+        System.out.println("");
+    }
+    public void nom_Congo() {
+        System.out.println("==========================");
+        est.setNombre("Mateo");
+        est.setApellido("Congo");
+        est.setEdad(21);
+        est.setCodi("22");
+        est.setUsuario("Einarr07");
         System.out.println("Nombre: " + est.getNombre());
         System.out.println("Apellido: " + est.getApellido());
         System.out.println("Edad: " + est.getEdad());

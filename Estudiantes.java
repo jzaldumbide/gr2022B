@@ -12,8 +12,6 @@ public class Estudiantes {
         codi = "";
         usuario = "";
     }
-
-
     public String getNombre() {
         return nombre;
     }
