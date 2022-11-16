@@ -12,5 +12,6 @@ public class main {
         metodos.nom_Panchi();
         metodos.nom_Guanoluisa();
         metodos.nom_Carapaz();
+        metodos.nom_Quishpe();
     }
 }
